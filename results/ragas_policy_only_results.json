@@ -1,0 +1,318 @@
+{
+  "user_input":{
+    "0":"What is the scope of the Code of Practice for Research Degrees?",
+    "1":"Who is responsible for drafting policies related to research degrees?",
+    "2":"What ethical guidelines must researchers follow?",
+    "3":"What is the role of a supervisory team in research degrees?",
+    "4":"What is the process for submitting a thesis for examination?",
+    "5":"What is the timeline for completing a PhD?",
+    "6":"What distinguishes practice-led research from other research types?",
+    "7":"What is the structure of a Doctor of Education (EdD)?",
+    "8":"What documents are required for final thesis submission?",
+    "9":"Who owns the intellectual property generated during research?",
+    "10":"What related documents should PGRs be familiar with?",
+    "11":"What are the expected hours of study for full-time research students?",
+    "12":"What is the Research Ethics Code of Practice?",
+    "13":"How often must supervisors complete development activities?",
+    "14":"What are the steps in the viva voce examination?",
+    "15":"What is the Probationary Review and when does it occur?",
+    "16":"How is practice-led research assessed?",
+    "17":"What is the timeline for an EngD or DProf degree?",
+    "18":"What are the requirements for submitting research data?",
+    "19":"Under what circumstances does the University require PGRs to assign IP rights?",
+    "20":"What support services are available to PGRs?",
+    "21":"What is the role of the independent chair in a viva voce?",
+    "22":"What is the Concordat to Support Research Integrity?",
+    "23":"What happens if a supervisor leaves during a PGR\u2019s study?",
+    "24":"What are the possible outcomes of a viva voce examination?",
+    "25":"What are the progression milestones for an MPhil?",
+    "26":"What must a PGR submit for a PhD by Publication?",
+    "27":"What is required for a practice-led research degree submission?",
+    "28":"What is the process for ratifying a PGR\u2019s award?",
+    "29":"What are the guidelines for restricting access to a thesis?"
+  },
+  "retrieved_contexts":{
+    "0":[
+      ""
+    ],
+    "1":[
+      ""
+    ],
+    "2":[
+      ""
+    ],
+    "3":[
+      ""
+    ],
+    "4":[
+      ""
+    ],
+    "5":[
+      ""
+    ],
+    "6":[
+      ""
+    ],
+    "7":[
+      ""
+    ],
+    "8":[
+      ""
+    ],
+    "9":[
+      ""
+    ],
+    "10":[
+      ""
+    ],
+    "11":[
+      ""
+    ],
+    "12":[
+      ""
+    ],
+    "13":[
+      ""
+    ],
+    "14":[
+      ""
+    ],
+    "15":[
+      ""
+    ],
+    "16":[
+      ""
+    ],
+    "17":[
+      ""
+    ],
+    "18":[
+      ""
+    ],
+    "19":[
+      ""
+    ],
+    "20":[
+      ""
+    ],
+    "21":[
+      ""
+    ],
+    "22":[
+      ""
+    ],
+    "23":[
+      ""
+    ],
+    "24":[
+      ""
+    ],
+    "25":[
+      ""
+    ],
+    "26":[
+      ""
+    ],
+    "27":[
+      ""
+    ],
+    "28":[
+      ""
+    ],
+    "29":[
+      ""
+    ]
+  },
+  "response":{
+    "0":"Error: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https:\/\/github.com\/openai\/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https:\/\/github.com\/openai\/openai-python\/discussions\/742\n",
+    "1":"Error: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https:\/\/github.com\/openai\/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https:\/\/github.com\/openai\/openai-python\/discussions\/742\n",
+    "2":"Error: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https:\/\/github.com\/openai\/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https:\/\/github.com\/openai\/openai-python\/discussions\/742\n",
+    "3":"Error: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https:\/\/github.com\/openai\/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https:\/\/github.com\/openai\/openai-python\/discussions\/742\n",
+    "4":"Error: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https:\/\/github.com\/openai\/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https:\/\/github.com\/openai\/openai-python\/discussions\/742\n",
+    "5":"Error: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https:\/\/github.com\/openai\/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https:\/\/github.com\/openai\/openai-python\/discussions\/742\n",
+    "6":"Error: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https:\/\/github.com\/openai\/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https:\/\/github.com\/openai\/openai-python\/discussions\/742\n",
+    "7":"Error: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https:\/\/github.com\/openai\/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https:\/\/github.com\/openai\/openai-python\/discussions\/742\n",
+    "8":"Error: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https:\/\/github.com\/openai\/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https:\/\/github.com\/openai\/openai-python\/discussions\/742\n",
+    "9":"Error: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https:\/\/github.com\/openai\/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https:\/\/github.com\/openai\/openai-python\/discussions\/742\n",
+    "10":"Error: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https:\/\/github.com\/openai\/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https:\/\/github.com\/openai\/openai-python\/discussions\/742\n",
+    "11":"Error: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https:\/\/github.com\/openai\/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https:\/\/github.com\/openai\/openai-python\/discussions\/742\n",
+    "12":"Error: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https:\/\/github.com\/openai\/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https:\/\/github.com\/openai\/openai-python\/discussions\/742\n",
+    "13":"Error: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https:\/\/github.com\/openai\/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https:\/\/github.com\/openai\/openai-python\/discussions\/742\n",
+    "14":"Error: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https:\/\/github.com\/openai\/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https:\/\/github.com\/openai\/openai-python\/discussions\/742\n",
+    "15":"Error: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https:\/\/github.com\/openai\/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https:\/\/github.com\/openai\/openai-python\/discussions\/742\n",
+    "16":"Error: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https:\/\/github.com\/openai\/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https:\/\/github.com\/openai\/openai-python\/discussions\/742\n",
+    "17":"Error: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https:\/\/github.com\/openai\/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https:\/\/github.com\/openai\/openai-python\/discussions\/742\n",
+    "18":"Error: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https:\/\/github.com\/openai\/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https:\/\/github.com\/openai\/openai-python\/discussions\/742\n",
+    "19":"Error: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https:\/\/github.com\/openai\/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https:\/\/github.com\/openai\/openai-python\/discussions\/742\n",
+    "20":"Error: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https:\/\/github.com\/openai\/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https:\/\/github.com\/openai\/openai-python\/discussions\/742\n",
+    "21":"Error: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https:\/\/github.com\/openai\/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https:\/\/github.com\/openai\/openai-python\/discussions\/742\n",
+    "22":"Error: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https:\/\/github.com\/openai\/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https:\/\/github.com\/openai\/openai-python\/discussions\/742\n",
+    "23":"Error: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https:\/\/github.com\/openai\/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https:\/\/github.com\/openai\/openai-python\/discussions\/742\n",
+    "24":"Error: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https:\/\/github.com\/openai\/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https:\/\/github.com\/openai\/openai-python\/discussions\/742\n",
+    "25":"Error: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https:\/\/github.com\/openai\/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https:\/\/github.com\/openai\/openai-python\/discussions\/742\n",
+    "26":"Error: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https:\/\/github.com\/openai\/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https:\/\/github.com\/openai\/openai-python\/discussions\/742\n",
+    "27":"Error: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https:\/\/github.com\/openai\/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https:\/\/github.com\/openai\/openai-python\/discussions\/742\n",
+    "28":"Error: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https:\/\/github.com\/openai\/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https:\/\/github.com\/openai\/openai-python\/discussions\/742\n",
+    "29":"Error: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https:\/\/github.com\/openai\/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https:\/\/github.com\/openai\/openai-python\/discussions\/742\n"
+  },
+  "reference":{
+    "0":"The Code outlines policies and procedures for postgraduate research degrees at BU, ensuring consistency, quality, and regular updates to reflect best practices across all stages of the research journey.",
+    "1":"The Doctoral College and Research Degrees Committee draft these policies in consultation with Academic Quality, involving ongoing review to incorporate improvements and ensure alignment with current standards.",
+    "2":"Researchers must follow the BU Research Ethics Code of Practice, complete ethics training modules, and ensure timely ethical approval, especially for NHS-related research, to avoid delays in milestones or submission.",
+    "3":"Supervisors guide research progress, ensure regular engagement recorded on ProGRess, support timely thesis submission, and address challenges like external supervisors or student non-compliance, which can impact submission quality.",
+    "4":"A thesis must be submitted electronically via ProGRess, followed by a viva voce examination, with delays possible if examiner nominations are not completed in advance as per the process.",
+    "5":"PhD students have 36 months (full-time) for submission and up to 48 months for completion, though many take the full 48 months due to continuation status, part-time transitions, publication expectations, or delays in ethics approval.",
+    "6":"Practice-led research involves practical outputs such as performances or designs, supported by a critical written exegesis that contextualizes the practice and demonstrates its contribution to knowledge.",
+    "7":"The EdD comprises a two-year taught phase with coursework, followed by supervised research culminating in a thesis or practical equivalent, balancing academic and professional educational practice.",
+    "8":"Final thesis submission requires electronic copies of the thesis and a Deposit of Thesis form submitted to the library within one month, with potential delays in library review depending on the time of year.",
+    "9":"PGRs typically own the IP they create, but exceptions apply for collaborative or funded projects where IP ownership is agreed upon during admissions, which may require careful review to ensure clarity.",
+    "10":"PGRs should be familiar with BU\u2019s Academic Regulations, the Research Data Policy, the Research Ethics Code of Practice, intellectual property policies, and faculty-specific guidelines, as introduced during admissions and induction, though this can be overwhelming for new students.",
+    "11":"Full-time students are expected to study 36 hours per week and take up to 6 weeks of annual leave, equating to about 2 years and 8 months of active research time, often underestimated due to setbacks like ethics approval or fieldwork delays.",
+    "12":"The Code requires ethical review of all research activities, with a checklist and panel review for high-risk projects, emphasizing the need for early approval to avoid delays in data collection and viva preparation.",
+    "13":"Supervisors must complete professional development every 3 years to stay updated with policies and best practices, though engagement varies, with online lunch bite sessions available to accommodate busy schedules.",
+    "14":"The viva voce includes a pre-exam report by examiners, an oral defense where the PGR presents and defends their research, and a post-exam deliberation by the examiners and independent chair to decide outcomes like passing, corrections, or resubmission, with scheduling challenges possible during peak academic periods.",
+    "15":"The Probationary Review occurs within the first 3 months (full-time), assessing early progress, research potential, and providing feedback from academics to prepare for future examinations like the viva.",
+    "16":"Assessment involves evaluating practical outputs (e.g., performances, designs) alongside a critical exegesis that reflects the theoretical context and demonstrates the research\u2019s contribution to knowledge.",
+    "17":"EngD and DProf degrees typically take 4 years full-time, involving industry-focused research in collaboration with professional sponsors to integrate academic and practical outcomes.",
+    "18":"PGRs must submit research data to BORDaR with detailed documentation as part of their final submission, with support available from faculty data champions during the research process.",
+    "19":"IP is assigned to BU for collaborative projects or when external funding is involved, with terms agreed upon during admissions through signed T&Cs and IP documents, overseen by the DC Admissions Team.",
+    "20":"BU offers support services for PGRs, including library services (e.g., study spaces, research resources), IT support, professional development workshops, and faculty librarians, ensuring accessibility for all students, including part-time or remote learners.",
+    "21":"The independent chair ensures procedural fairness, documents the examination process, monitors the PGR's wellbeing, and oversees the process until the award is issued, returning paperwork to PGRAs post-viva.",
+    "22":"The Concordat ensures researchers maintain integrity, transparency, and accountability, supported by workshops in the Doctoral College\u2019s development programme, though part-time students may find engagement challenging.",
+    "23":"The faculty must appoint a replacement supervisor to ensure continuity of guidance, though challenges may arise in finding a willing supervisor, and PGRAs may not be informed promptly of the change.",
+    "24":"Outcomes include passing with no corrections, requiring minor or major corrections, resubmission, awarding a lower degree, or failure, with resubmission or lower awards often leading to a protracted and stressful process.",
+    "25":"Key milestones include a probationary review within 3 months, annual reviews to monitor progress, and thesis submission within 18 months (full-time), with the option to transfer to a PhD at 18 months if approved.",
+    "26":"A PhD by Publication requires submitting a collection of peer-reviewed works and a comprehensive synthesis document explaining their coherence and original contribution to knowledge.",
+    "27":"Submissions include practical elements (e.g., performances, designs), a detailed exegesis contextualizing the work, and comprehensive supporting documentation to demonstrate both practical excellence and theoretical underpinning.",
+    "28":"The award is ratified by the Doctoral College after the final thesis and Deposit of Thesis form are submitted to the library, with potential delays in library review for copyright checks, especially around graduation deadlines.",
+    "29":"Theses can be restricted for up to 2 years for IP protection or confidentiality, extendable to 5 years, requiring approval from the Faculty Dean, which can delay the process depending on their availability."
+  },
+  "faithfulness":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0,
+    "3":0.0,
+    "4":0.0,
+    "5":0.0,
+    "6":0.0,
+    "7":0.0,
+    "8":0.0,
+    "9":0.0,
+    "10":0.0,
+    "11":0.0,
+    "12":0.0,
+    "13":0.0,
+    "14":0.0,
+    "15":0.0,
+    "16":0.0,
+    "17":0.0,
+    "18":0.0,
+    "19":0.0,
+    "20":0.0,
+    "21":0.0,
+    "22":0.0,
+    "23":0.0,
+    "24":0.0,
+    "25":0.0,
+    "26":0.0,
+    "27":0.0,
+    "28":0.0,
+    "29":0.0
+  },
+  "answer_relevancy":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0,
+    "3":0.0,
+    "4":0.0,
+    "5":0.0,
+    "6":0.6729913281,
+    "7":0.0,
+    "8":0.0,
+    "9":0.0,
+    "10":0.0,
+    "11":0.0,
+    "12":0.0,
+    "13":0.0,
+    "14":0.0,
+    "15":0.0,
+    "16":0.0,
+    "17":0.6656674071,
+    "18":0.0,
+    "19":0.0,
+    "20":0.0,
+    "21":0.0,
+    "22":0.0,
+    "23":0.0,
+    "24":0.0,
+    "25":0.0,
+    "26":0.0,
+    "27":0.0,
+    "28":0.0,
+    "29":0.0
+  },
+  "context_precision":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0,
+    "3":0.0,
+    "4":0.0,
+    "5":0.0,
+    "6":0.0,
+    "7":0.0,
+    "8":0.0,
+    "9":0.0,
+    "10":0.0,
+    "11":0.0,
+    "12":0.0,
+    "13":0.0,
+    "14":0.0,
+    "15":0.0,
+    "16":0.0,
+    "17":0.0,
+    "18":0.0,
+    "19":0.0,
+    "20":0.0,
+    "21":0.0,
+    "22":0.0,
+    "23":0.0,
+    "24":0.0,
+    "25":0.0,
+    "26":0.0,
+    "27":0.0,
+    "28":0.0,
+    "29":0.0
+  },
+  "context_recall":{
+    "0":0.0,
+    "1":0.0,
+    "2":0.0,
+    "3":0.0,
+    "4":0.0,
+    "5":0.0,
+    "6":0.0,
+    "7":0.0,
+    "8":0.0,
+    "9":0.0,
+    "10":0.0,
+    "11":0.0,
+    "12":0.0,
+    "13":0.0,
+    "14":0.0,
+    "15":0.0,
+    "16":0.0,
+    "17":0.0,
+    "18":0.0,
+    "19":0.0,
+    "20":0.0,
+    "21":0.0,
+    "22":0.0,
+    "23":0.0,
+    "24":0.0,
+    "25":0.0,
+    "26":0.0,
+    "27":0.0,
+    "28":0.0,
+    "29":0.0
+  }
+}
